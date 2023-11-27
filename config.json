@@ -1,0 +1,12 @@
+{
+    "type":"server",
+    "LocalAddr":"127.0.0.1:8081",
+    
+    "RemoteAddr":"127.0.0.1:8082",
+   
+
+    "Socks5Addr":"127.0.0.1:8082",
+    
+
+    "key":"hello"
+  }
